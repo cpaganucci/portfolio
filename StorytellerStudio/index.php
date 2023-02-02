@@ -20,7 +20,7 @@
       <div id="unity-footer">
         <div id="unity-webgl-logo"></div>
         <div id="unity-fullscreen-button"></div>
-        <div id="unity-build-title">Storyteller Studio</div>
+        <div id="unity-build-title"><?php echo 'Storyteller Studio'?></div>
       </div>
     </div>
     <script>
